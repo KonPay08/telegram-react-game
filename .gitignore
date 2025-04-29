@@ -1,0 +1,13 @@
+# dependencies
+/node_modules
+
+# production build
+/dist
+/public/game.html
+
+# misc
+.DS_Store
+.env
+
+# OS files
+Thumbs.db
